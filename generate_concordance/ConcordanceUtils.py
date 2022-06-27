@@ -45,6 +45,7 @@ def print_lines(lines: List[str]):
     lines : str
         Lines to write to stdout.
     """
+
     for line in lines:
         print(line)
 

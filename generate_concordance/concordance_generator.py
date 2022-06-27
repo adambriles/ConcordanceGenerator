@@ -63,7 +63,7 @@ class ConcordanceGenerator:
         Returns
         -------
         str
-            prefix of a concordance line plus whitespace padding
+            prefix of a concordance line plus whitespace padding.
         """
 
         prefix_column_length: int = math.ceil(len(self.__word_to_info) / CHARS_IN_ALPHABET)
@@ -93,12 +93,12 @@ class ConcordanceGenerator:
         words_processed : int
             Number of words in the concordance for which lines have already been generated.
         prefix_column_length :
-            Length of the prefix column. Used to a consistent length for the prefix column despite varying prefix size
+            Length of the prefix column. Used to a consistent length for the prefix column despite varying prefix size.
 
         Returns
         -------
         str
-            line for a word in the concordance
+            line for a word in the concordance.
         """
 
         word_info: WordInfo = self.__word_to_info[word]
@@ -152,7 +152,7 @@ class ConcordanceGenerator:
         Returns
         -------
         int
-            Longest word in the concordance
+            Longest word in the concordance.
         """
         return self.__longest_word
 

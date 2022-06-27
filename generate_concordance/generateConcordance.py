@@ -7,9 +7,6 @@ from typing import Optional, List
 from generate_concordance import ConcordanceUtils
 from generate_concordance.concordance_generator import ConcordanceGenerator
 
-# pip3 install spacy
-# python3 -m spacy download en_core_web_sm
-
 """Concordance Generator
 
 This script reads in a user provided .txt file containing sentences in English. Then -- depending on user provided

@@ -17,9 +17,9 @@ From the top level directory of this repository:
   1. Getting help: 
      - ./generate_concordance/generateConcordance.py --help
   2. Writing the generated concordance to a specified text file 
-     - ./generate_concordance/generateConcordance.py --inputFile <your input file> --outputFile <your output file>
+     - ./generate_concordance/generateConcordance.py --inputFile [your input file] --outputFile [your output file]
   3. Writing the generated concordance to a specified text file 
-     - ./generate_concordance/generateConcordance.py --inputFile <your input file> --stdout 
+     - ./generate_concordance/generateConcordance.py --inputFile [your input file] --stdout 
      
   Note: Demo files have been provided under the /test_files directory
      

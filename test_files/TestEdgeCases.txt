@@ -1,0 +1,9 @@
+This is a file          to              test              a bunch of potential edge cases, e.g. potential bugs!
+
+The natural language tokenizer library tripped up on   most
+edge cases, and caused a lot of issues. Spacy seems
+to be the
+way                     to go.
+
+It did not behave right with stuf like u.s.a, e.g. and some very basic cases
+.

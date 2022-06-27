@@ -1,5 +1,5 @@
 # Concordance Generator
-Concordance Generator is a Python Script to generate a concordance for user provided text files. The generated concordance
+Concordance Generator is a Python Script to generate a concordance for user provided text files, written in English. The generated concordance
 can either be written to a file or to stdout. 
 
 ## Requirements

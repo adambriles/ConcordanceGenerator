@@ -1,5 +1,5 @@
 # Concordance Generator
-Concordance Generator is a Python Module to generate a concordance for user provided text files. The generated concordance
+Concordance Generator is a Python Module to generate concordances for user provided text files. The generated concordances
 can either be written to a file or to stdout. 
 
 ## Requirements
